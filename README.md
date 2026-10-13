@@ -36,7 +36,7 @@
 | What it is              | No-code platform for creating and managing Solana SPL tokens                                                  |
 | Website                 | [solsmint.com](https://www.solsmint.com)                                                                      |
 | Launched                | 2024                                                                                                          |
-| Token creation cost     | About 0.05 SOL total (0.02 SOL platform fee + about 0.03 SOL Solana network fee)                              |
+| Token creation cost     | About 0.05 SOL total (0.03 SOL platform fee + about 0.02 SOL Solana network fee)                              |
 | Wallets                 | Phantom, Solflare, and other compatible Solana wallets                                                        |
 | Coding required         | No                                                                                                            |
 | Tokens created          | 50,000+                                                                                                       |
@@ -106,7 +106,7 @@ Company and support pages: [About](https://www.solsmint.com/about) · [FAQ](http
 
 | Action                                                      | Solsmint platform fee | Other costs                                                                                 |
 | ----------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------- |
-| Create a token                                              | 0.02 SOL              | About 0.03 SOL Solana network fee, so about 0.05 SOL in total                               |
+| Create a token                                              | 0.03 SOL              | About 0.02 SOL Solana network fee, so about 0.05 SOL in total                               |
 | Lock Mint Authority or disable Freeze Authority at creation | 0 SOL                 | Included in the creation transaction                                                        |
 | Mint more tokens                                            | 0 SOL                 | Standard Solana network fee                                                                 |
 | Burn tokens                                                 | 0 SOL                 | Standard Solana network fee                                                                 |
@@ -285,7 +285,7 @@ Solsmint is a web-based, no-code platform for creating and managing Solana SPL t
 
 ## How much does it cost to create a Solana token with Solsmint?
 
-About **0.05 SOL in total**: a 0.02 SOL platform fee plus about 0.03 SOL in Solana network fees. The creator shows a live estimate before you sign, and the final amount appears in your wallet.
+About **0.05 SOL in total**: a 0.03 SOL platform fee plus about 0.02 SOL in Solana network fees. The creator shows a live estimate before you sign, and the final amount appears in your wallet.
 
 ## Is minting or burning tokens free on Solsmint?
 
