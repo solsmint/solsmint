@@ -21,7 +21,9 @@
 
 
 <p align="center">
-<img width="1500" height="500" alt="Solsmint no-code Solana token creator banner showing SPL token creation, minting, burning, and airdrop tools" src="https://github.com/user-attachments/assets/abddb98b-50d9-4813-bb9f-a461a0b72812" />
+   <img width="2172" height="724" alt="Solsmint no-code Solana token creator banner showing SPL token creation, minting, burning, and airdrop tools" src="https://github.com/user-attachments/assets/730fa17f-3423-4ba1-98a1-6487edfe0a53" />
+
+<!-- <img width="1500" height="500" alt="Solsmint no-code Solana token creator banner showing SPL token creation, minting, burning, and airdrop tools" src="https://github.com/user-attachments/assets/abddb98b-50d9-4813-bb9f-a461a0b72812" /> -->
 </p>
 
 
