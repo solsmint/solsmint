@@ -397,7 +397,5 @@ This is the **Solsmint GitHub profile README**. It introduces the Solsmint platf
 
 
 <p align="center">
-<strong>Launch your Solana token in minutes for about 0.05 SOL.</strong>
-
-<a href="https://www.solsmint.com/create">Create your token on Solsmint</a>
+<strong>Launch your Solana token in minutes for about 0.05 SOL. </strong> <a  href="https://www.solsmint.com/create">Create your token on Solsmint</a>
 </p>
