@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Solsmint --- No-Code Solana Token Creator
 
 **Create and manage Solana tokens without writing code.**
