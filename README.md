@@ -9,7 +9,8 @@ Guides](https://blog.solsmint.com) · [X](https://x.com/solsmint) ·
 [Telegram](https://t.me/solsmint)
 
 <!-- <img width="2752" height="1536" alt="Solana_token_creation_guide_2K_20261008015224" src="https://github.com/user-attachments/assets/b0b9dd00-fbfb-4d8e-a104-8bdef343e37a" /> -->
-<img width="1536" height="1024" alt="Solsmint --- No-Code Solana Token Creator" src="https://github.com/user-attachments/assets/75d66307-0614-47e9-b262-8fced6c86d3c" />
+<!-- <img width="1536" height="1024" alt="Solsmint --- No-Code Solana Token Creator" src="https://github.com/user-attachments/assets/75d66307-0614-47e9-b262-8fced6c86d3c" /> -->
+<img width="1500" height="500" alt="No-Code Solana Token Creator" src="https://github.com/user-attachments/assets/abddb98b-50d9-4813-bb9f-a461a0b72812" />
 
 :::
 
@@ -223,8 +224,5 @@ the project; it does not contain or document the platform's source code.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-**Build on Solana. Start with a clear plan.**
+**Build on Solana. Start with a clear plan.** [Visit Solsmint](https://www.solsmint.com)
 
-[Visit Solsmint](https://www.solsmint.com)
-:::
