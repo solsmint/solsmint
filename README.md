@@ -8,15 +8,7 @@
 Guides](https://blog.solsmint.com) · [X](https://x.com/solsmint) ·
 [Telegram](https://t.me/solsmint)
 
-```{=html}
-<!-- Add your logo image to this repository, for example: assets/solsmint-logo.png -->
-```
-```{=html}
-<!-- Then uncomment and update this line: -->
-```
-```{=html}
-<!-- ![Solsmint logo](assets/solsmint-logo.png) -->
-```
+
 :::
 
 ------------------------------------------------------------------------
@@ -232,10 +224,6 @@ educational articles.
 This repository is the **Solsmint GitHub profile README**. It introduces
 the project; it does not contain or document the platform's source code.
 
-If you are looking for integration details, an SDK, API documentation,
-or source code, publish those materials in a separate repository only
-when they are ready for public release. Do not commit API keys, private
-RPC URLs, wallet secrets, `.env` files, or other credentials.
 
 ------------------------------------------------------------------------
 
