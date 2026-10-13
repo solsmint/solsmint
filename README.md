@@ -35,7 +35,7 @@
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
 | What it is              | No-code platform for creating and managing Solana SPL tokens                                                  |
 | Website                 | [solsmint.com](https://www.solsmint.com)                                                                      |
-| Launched                | 2024                                                                                                          |
+| Launched                | 2025                                                                                                          |
 | Token creation cost     | About 0.05 SOL total (0.03 SOL platform fee + about 0.02 SOL Solana network fee)                              |
 | Wallets                 | Phantom, Solflare, and other compatible Solana wallets                                                        |
 | Coding required         | No                                                                                                            |
