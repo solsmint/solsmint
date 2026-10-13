@@ -164,10 +164,14 @@ Want the full walkthrough? Read the [Solana Token Creation: Complete Guide for B
 
 Explore: [Mint tokens](https://www.solsmint.com/mint) · [Burn tokens](https://www.solsmint.com/burn)
 
-
 <p align="center">
 <img width="1756" height="948" alt="Solsmint Solana token supply management interface for minting and burning SPL tokens" src="https://github.com/user-attachments/assets/423e85c8-e729-41d4-86b3-ef1d23a18ebb" />
 </p>
+
+Explore: [Burn tokens](https://www.solsmint.com/burn) · [Burn tokens](https://www.solsmint.com/burn)
+
+<p align="center">
+   <img width="1427" height="902" alt="Solsmint Solana token supply management interface for minting and burning SPL tokens" src="https://github.com/user-attachments/assets/0c259cdb-41b4-4dcc-81a1-17ddc55d7a27" />
 
 
 ## Airdrop tokens to your community
@@ -222,11 +226,15 @@ When data can't be verified, the report labels it as unknown instead of marking 
 
 Explore: [Solana token rug check](https://www.solsmint.com/rug-check)
 
+<img width="1797" height="965" alt="Solsmint Rug Check tool interface for researching Solana SPL tokens" src="https://github.com/user-attachments/assets/06c8c981-f45b-4b46-ae88-be4985e7ba56" />
+
+
 ## Watch the market with the Crypto Bubble Map
 
 The bubble map shows live crypto market data from CoinGecko, refreshed every 90 seconds. Bubble size reflects market cap, and color reflects the 24-hour price change. You can filter by Solana Ecosystem, Meme, or DeFi and switch between market cap and 24-hour volume.
 
 Explore: [Crypto market bubble map](https://www.solsmint.com/market-bubble-map)
+<img width="1900" height="1059" alt="Solsmint Bubblemap page showing a visual map of Solana token holder distribution and wallet connections to help users explore token ownership patterns and investigate potential concentration risks." src="https://github.com/user-attachments/assets/5c93ffd7-b1ad-4346-9855-abab7f871aad" />
 
 ---
 
