@@ -8,9 +8,8 @@
 Guides](https://blog.solsmint.com) · [X](https://x.com/solsmint) ·
 [Telegram](https://t.me/solsmint)
 
-![Uploading Solana_token_creation_guide_2K_20261008015224.jpg…![Uploading Solana_token_creation_guide_2K_20261008015224.jpg…]()
-]()
-
+<!-- <img width="2752" height="1536" alt="Solana_token_creation_guide_2K_20261008015224" src="https://github.com/user-attachments/assets/b0b9dd00-fbfb-4d8e-a104-8bdef343e37a" /> -->
+<img width="1536" height="1024" alt="Solsmint --- No-Code Solana Token Creator" src="https://github.com/user-attachments/assets/75d66307-0614-47e9-b262-8fced6c86d3c" />
 
 :::
 
@@ -52,11 +51,10 @@ transaction, and approve it in your wallet.
 **Explore:** [Create a token on
 Solsmint](https://www.solsmint.com/create)
 
-```{=html}
-<!-- Recommended image: add a genuine screenshot of the token creation form.
-     Suggested path: assets/create-token.png
-     Suggested alt text: "Solsmint Solana token creator form" -->
-```
+
+<img width="1530" height="990" alt="Solsmint Solana token creator form" src="https://github.com/user-attachments/assets/75fa10df-ab60-4225-9b48-4ca2725b9551" />
+
+
 ### Manage token supply
 
 Use the available mint and burn tools to manage token supply when the
@@ -66,26 +64,23 @@ does not mean that all tokens or all project risks are removed.
 
 **Explore:** [Solsmint](https://www.solsmint.com)
 
-```{=html}
-<!-- Recommended image: add a genuine screenshot of the mint/burn interface.
-     Suggested path: assets/token-management.png
-     Suggested alt text: "Solsmint token supply management interface" -->
-```
+<img width="1756" height="948" alt="Solsmint token supply management interface" src="https://github.com/user-attachments/assets/423e85c8-e729-41d4-86b3-ef1d23a18ebb" />
+
+
 ### Distribute tokens with airdrops
 
 Send tokens to multiple wallet addresses using the airdrop workflow.
 Review recipient addresses and transaction details carefully before
 approving transactions.
+<img width="1772" height="941" alt="Solsmint Solana token airdrop interface" src="https://github.com/user-attachments/assets/05032ff8-fd04-4228-b9b1-c0905420a3dd" />
 
-```{=html}
-<!-- Recommended image: add a genuine screenshot of the airdrop workflow.
-     Suggested path: assets/airdrop.png
-     Suggested alt text: "Solsmint Solana token airdrop interface" -->
-```
+
 ### Create NFTs
 
 Create NFTs using the NFT functionality available on Solsmint. Network
 fees may still apply even when Solsmint does not charge a platform fee.
+<img width="1782" height="938" alt="Solsmint Solana token NFT interface" src="https://github.com/user-attachments/assets/43ace85e-6f93-4cc7-a6e6-7790027e92b1" />
+
 
 ### Add or remove liquidity
 
@@ -96,11 +91,9 @@ the pool and transaction details before proceeding.
 
 **Explore:** [Liquidity tools](https://www.solsmint.com/liquidity)
 
-```{=html}
-<!-- Recommended image: add a genuine screenshot of the liquidity page.
-     Suggested path: assets/liquidity.png
-     Suggested alt text: "Solsmint interface for adding and removing Solana token liquidity" -->
-```
+<img width="1733" height="921" alt="Solsmint interface for adding and removing Solana token liquidity" src="https://github.com/user-attachments/assets/922cc420-ffd9-479f-9f73-aa6440cd9b31" />
+<img width="1773" height="959" alt="Solsmint interface for adding and removing Solana token liquidity" src="https://github.com/user-attachments/assets/050a0878-1f5d-4717-abff-96e3fe1ce079" />
+
 ## How to create a Solana token with Solsmint
 
 1.  Open [Solsmint](https://www.solsmint.com/create).
